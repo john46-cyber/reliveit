@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "reliveit",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "10c87710-de70-40d5-a265-0a2db43667bb",
+      "database_name": "reliveit-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
